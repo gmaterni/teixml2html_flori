@@ -140,7 +140,8 @@ i|note|span>a||class:annotaz_int
 
 x|ptr|a|id,type|class:ptr note,href:#,target_note:%target%|%n%|
 
-x|teimed_note|div|id|class:teimed_note
+d|teimed_note|div|id|class:teimed_note
+i|teimed_note|XXX|id|class:teimed_note
 
 x|space|space+type|
 x|space+reserved-line|span||class:reserved-line|[ligne blanche réservée]
@@ -172,5 +173,8 @@ i|agglutination_uncert|||class:aggl-uncert_int
 
 x|damage|||class:damage%css_end%||css_end:_last
 
-d|supplied+|_x_supplied_error
-d|addname|_x_addname_eeror
+
+
+
+x|supplied+|_x_supplied_error
+x|addname|addname_eeror

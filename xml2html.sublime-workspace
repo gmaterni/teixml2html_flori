@@ -1,0 +1,979 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"re",
+				"responseText"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"ch",
+				"chmod\tfunction"
+			],
+			[
+				"ext",
+				"extractor\tstatement"
+			],
+			[
+				"g",
+				"groups\tfunction"
+			],
+			[
+				"m",
+				"match\tstatement"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"wru",
+				"write_numero_provvisori\tfunction"
+			],
+			[
+				"log",
+				"logerr\tstatement"
+			],
+			[
+				"delete",
+				"delete_x\tfunction"
+			],
+			[
+				"e",
+				"execute\tfunction"
+			],
+			[
+				"li",
+				"lista_txt\tstatement"
+			],
+			[
+				"id",
+				"identificativo_flusso\tstatement"
+			],
+			[
+				"get",
+				"get_fattmand_info"
+			],
+			[
+				"ptr",
+				"ptr_num\tstatement"
+			],
+			[
+				"l",
+				"linesep\tstatement"
+			],
+			[
+				"ge",
+				"get_attrs\tfunction"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"ele",
+				"elements\tstatement"
+			],
+			[
+				"st",
+				"strip\tfunction"
+			],
+			[
+				"col",
+				"columns_type\tparam"
+			],
+			[
+				"a",
+				"append"
+			],
+			[
+				"n",
+				"numerics\tparam"
+			],
+			[
+				"sa",
+				"save-only"
+			],
+			[
+				"t",
+				"types\tfunction"
+			],
+			[
+				"db_",
+				"db_types\tstatement"
+			],
+			[
+				"co",
+				"collections\tmodule"
+			],
+			[
+				"c",
+				"close\tfunction"
+			],
+			[
+				"i",
+				"infix2rpn\tmodule"
+			],
+			[
+				"inf",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"I",
+				"IGNORECASE\tstatement"
+			],
+			[
+				"sta",
+				"static_file\tfunction"
+			],
+			[
+				"ro",
+				"row_factory\tinstance"
+			],
+			[
+				"le",
+				"len\tfunction"
+			],
+			[
+				"T",
+				"TOP\tstatement"
+			],
+			[
+				"R",
+				"RIGHT\tstatement"
+			],
+			[
+				"Value",
+				"value"
+			],
+			[
+				"gridpro",
+				"grid_propagate\tstatement"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"tk",
+				"tkMessageBox"
+			],
+			[
+				"con",
+				"configure\tstatement"
+			],
+			[
+				"gr",
+				"grid_remove"
+			],
+			[
+				"thraed",
+				"threading\tmodule"
+			],
+			[
+				"s",
+				"settitle"
+			],
+			[
+				"d",
+				"download\tfunction"
+			],
+			[
+				"E",
+				"Exception\tclass"
+			],
+			[
+				"wo",
+				"wordpunct_tokenize\tfunction"
+			],
+			[
+				"po",
+				"posix_shell\tfunction"
+			],
+			[
+				"str",
+				"strftime\tfunction"
+			],
+			[
+				"ty",
+				"types"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"borer-s",
+				"border-style"
+			],
+			[
+				"di",
+				"div_list_id"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"row",
+				"rows_for_pag"
+			],
+			[
+				"mstrows",
+				"mstrows_id"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pa",
+				"pag_scroll"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"action",
+				"actiontd"
+			],
+			[
+				"o",
+				"openPopup"
+			],
+			[
+				"Wi",
+				"UaWindowAdm"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"cl",
+				"clsMsg"
+			],
+			[
+				"form_",
+				"form_wrp_id"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"cls",
+				"clsList"
+			],
+			[
+				"htm",
+				"htmlTemplate"
+			],
+			[
+				"sh",
+				"showRows"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"P",
+				"position"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"M",
+				"ModelParams"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"F",
+				"false"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"to",
+				"toggle_html"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"men",
+				"menu_num"
+			],
+			[
+				"img_",
+				"img_num"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"wnd",
+				"wndhtml"
+			],
+			[
+				"set",
+				"setHtml"
+			],
+			[
+				"on",
+				"onLoad"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlb",
+				"HTMLBeautify"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"pa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pr",
+				"PackageResourceViewer: Extract All Packages"
+			],
+			[
+				"IN",
+				"Indent XML"
+			],
+			[
+				"e",
+				"Exalt: Format Document"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ex",
+				"Exalt: Format Document"
+			],
+			[
+				"xp",
+				"XPath: Goto parent element"
+			],
+			[
+				"sele",
+				"Select By Regex: All"
+			],
+			[
+				"rege",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"re",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"form",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"py",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"markd",
+				"BracketHighlighter: Match Brackets (ignore threshold)"
+			],
+			[
+				"PA",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: New Class"
+			],
+			[
+				"i",
+				"IndentX: Indent"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"l",
+				"List LESS variables"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"v",
+				"View: Toggle Menu"
+			],
+			[
+				"bh",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"bhr",
+				"BracketHighlighter: Jump to Right Bracket"
+			],
+			[
+				"bhl",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"w",
+				"WordHighlight: Toggle Enabled"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pl",
+				"Package Control: List Packages"
+			],
+			[
+				"pA",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"code",
+				"Format Code"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"s",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pack",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"pac",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"packa",
+				"PackageResourceViewer: Edit Package Resource"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"fin",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"f",
+				"FindKeyConflicts: (Direct) Conflicts to Quick Panel"
+			]
+		],
+		"width": 551.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"dir(window)",
+			"dir(sublime)",
+			"print(__doc__)",
+			"dir()",
+			"dir .",
+			"view.run_command(\"goto_line\", {\"line\": 10})",
+			"for i in range(10):",
+			"for i in range(10):print(i)",
+			"pwd",
+			"import os",
+			"impor os",
+			"help()",
+			"?",
+			"print(a)",
+			"a='100'",
+			"subl --help",
+			"sub --help",
+			"subl",
+			"subl .",
+			"subl setenv.sh",
+			"subl",
+			"sublime.version()",
+			"/usr/bin/subl --help",
+			"subl",
+			"--help",
+			"os.pwd()",
+			"os.chwd()",
+			"print('pipp')",
+			"os.listdir('.')",
+			"ls",
+			"python",
+			"import os",
+			"ls",
+			"subl --project",
+			"subl",
+			"view.run_command(\"new_window\")",
+			"new_window()",
+			"new_window",
+			"view.run_command(\"goto_line\",{\"line\":10})",
+			"Run subl --help",
+			"subl --help"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/u/pyx/pyu/tei/teixml2html_flori",
+		"/u/pyx/pyu/tei/teixml2html_flori/xml",
+		"/u/pyx/pyu/tei/teixml2html_flori/xml/xml0"
+	],
+	"file_history":
+	[
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/ven1.html",
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/ep1.html",
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/prol1.html",
+		"/u/pyx/pyu/tei/teimed_flori/txt/ven1/x1.xml",
+		"/u/pyx/pyu/tei/teimed_flori/txt/teitemplate.xml",
+		"/u/pyx/pyu/tei/teimed_flori/txt/ven1/x4.xml",
+		"/u/pyx/pyu/tei/site2/xml2html/xml/tor1/ep1.xml",
+		"/u/pyx/pyu/tei/site2/xml2html/html/tor1/txt/ep1.html",
+		"/u/pyx/pyu/tei/site2/xml2html/htmlf/tor1/txt/ep1_F.html",
+		"/u/pyx/pyu/tei/teimed/prjmgr.py",
+		"/u/pyx/pyu/tei/teimed2html/prjmgr.py",
+		"/u/pyx/pyu/tei/site2/xml2html/html/tor1/txt/prol1.html",
+		"/u/pyx/pyu/tei/site2/xml2html/html/tou1/txt/prol1.html",
+		"/u/pyx/pyu/tei/teimed2html/html/par1/txt/ep12.html",
+		"/u/pyx/pyu/tei/teimed2html/html/par1/syn/ep12.html",
+		"/u/pyx/pyu/tei/teisite/site2/flsite/html/ven1/txt/ep1.html",
+		"/u/pyx/pyu/tei/teisite/site2/flsite/html/ven1/txt/ven1.html",
+		"/u/pyx/pyu/tei/teisite/site2/flsite/html/ven1/txt/prol1.html",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep27.html",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep27_F.html",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep12_F.html",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep12X.html",
+		"/u/florix/flori/flsite_wrk/xml/par1/ep27.xml",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep27x.html",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep12.html",
+		"/u/florix/flori/flsite_wrk/xml/par1/ep12.xml",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/ep27X.html",
+		"/u/florix/flori/flsite_wrk/html/par1/txt/par1.html",
+		"/u/florix/flori/flsite_wrk/html/par1/syn/par1.html",
+		"/u/florix/flori/flsite_wrk/js/teimed.js",
+		"/u/florix/flori/flsite_wrk/html/tor1/txt/tor1.html",
+		"/u/florix/flori/flsite_wrk/html/tor1/syn/tor1.html",
+		"/u/florix/flori/flsite_wrk/txt.html",
+		"/u/florix/flori/flsite_wrk/js/teimedsyn.js",
+		"/u/florix/flori/flsite_wrk/txtven1.html",
+		"/u/florix/flori/flsite_wrk/txttor.html",
+		"/u/florix/flori/flsite_wrk/txttou.html",
+		"/u/florix/flori/flsite_wrk/txtven.html",
+		"/u/florix/flori/flsite_wrk/txtpar1.html",
+		"/u/pyx/ST/flsite_wrk.sublime-project",
+		"/u/florix/flori/flsite_wrk/html/par/syn/par_list.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/prol2.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/par.html",
+		"/u/florix/flori/flsite_wrk/htmlf/par/syn/ep22_F.html",
+		"/u/florix/flori/flsite_wrk/htmlf/par/syn/ep12_F.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/ep12.html",
+		"/u/pyx/pyu/tei/teimed2html/wrk/t0.txt",
+		"/u/florix/flori/flsite_wrk/htmlf/par/syn/prol2_F.html",
+		"/u/florix/flori/flsite_wrk/html/par/txt/ep12_F.html",
+		"/u/florix/flori/flsite_wrk/html/par/txt/ep13_F.html",
+		"/u/florix/flori/flsite_wrk/html/par/txt/par.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/txt/par.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/par.html",
+		"/u/florix/flori/flsite_wrk/html/par/txt/ep12.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/txt/ep12.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/ep13.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/ep12_F.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/txt/ep12i_X.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12i_X.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/txt/ep12d_X.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12d_X.html",
+		"/u/florix/flori/flsite_wrk/css/teimed.less",
+		"/u/florix/flori/flsite_wrk/html/par/txt/ep12d_F.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/ep12i_F.html",
+		"/u/florix/flori/flsite_wrk/xml/par/ep12.xml",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12i_F.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12d_F.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12iX.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12_X.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/txt/ep12_F.html",
+		"/u/florix/flori/flsite_wrk/html/par/syn/ep12d_F.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep_X.html",
+		"/u/florix/flori/flsite_wrk/x_fl_divs.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep26.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep12_F.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/ep20.html",
+		"/u/florix/flori/flsite_wrk/xsl/syndip.xsl",
+		"/u/florix/flori/flsite_wrk/html_old/tor/syn/ep2_F.html",
+		"/u/florix/flori/flsite_wrk/html_old/par/syn/par_F.html",
+		"/u/florix/flori/flsite_wrk/css/teimedsyn.less",
+		"/u/florix/flori/flsite_wrk/flsyn.html",
+		"/u/uenv/wrk/es/es_tee.sh",
+		"/u/pyx/pyu/tei/teimed/teimxml.py",
+		"/u/florix/flori/flsitew/html/par/txt/prol1l.html",
+		"/u/florix/flori/flsite/xsl/flint.xsl",
+		"/u/florix/flori/flsite/xsl/fldip.xsl",
+		"/u/florix/flori/flsitew/html/par/txt/prol1L.html",
+		"/u/florix/flori/flsitew/html/par/txt/prol1r.html",
+		"/u/florix/flori/tei/flsitew/tou/eps/fl_tou_ep01.txt",
+		"/u/florix/flori/flsitew/build_mano.sh",
+		"/u/florix/flori/flsitew/link.html",
+		"/u/florix/flori/flsitew/index.html",
+		"/u/pyx/pyu/tei/esflsite/build10.sh",
+		"/u/pyx/pyu/tei/esteimed/teimrm.sh",
+		"/u/pyx/pyu/tei/esteimed/text4_span.log",
+		"/u/pyx/pyu/tei/esteimed/fl_par1_ep25_.json",
+		"/u/pyx/pyu/tei/esteimed/text2.xml",
+		"/u/pyx/pyu/tei/teimed/teimspan.py",
+		"/u/pyx/pyu/tei/teimed/teimlineword.py",
+		"/u/pyx/pyu/tei/esteimed/text1.log",
+		"/u/pyx/pyu/tei/esteimed/fl_par1_ep25.txt",
+		"/home/ua/.config/sublime-text-3/.sublime/Local History/u/pyx/pyu/tei/esteimed/fl_par1_ep25-20201102165427.txt",
+		"/u/pyx/pyu/tei/esteimed/fl_par1_ep25.json",
+		"/u/pyx/pyu/tei/esteimed/text3.xml",
+		"/u/pyx/pyu/tei/esteimed/fl_par1_ep25.xml",
+		"/home/ua/.config/sublime-text-3/.sublime/Local History/u/pyx/pyu/tei/esteimed/fl_par1_ep25-20201102162352.txt",
+		"/u/pyx/pyu/tei/esteimed/floripar1.json",
+		"/u/pyx/pyu/tei/esteimed/text.json",
+		"/u/florix/flori/tei/flsite/par/fl_par.json",
+		"/u/pyx/pyu/tei/esteimed/text_es.json",
+		"/u/florix/flori/flsite/js/teimed.js",
+		"/u/florix/flori/flsite/html/par/txt/ep25l.html",
+		"/u/florix/flori/flsite/html/par/txt/ep25r.html",
+		"/u/florix/flori/flsite/MEMO1810.txt",
+		"/u/florix/flori/flsite/html/par/txt/ep25.html",
+		"/u/florix/flori/flsite/html/par/syn/ep25r.html",
+		"/u/arc/A_tavola/numeri_sacri_note.txt",
+		"/u/florix/flori/flsite/css/teimed.less",
+		"/u/docs_gm/gmw/A_INFOESO/infoesot.txt",
+		"/u/florix/flori/flsite/florimont.html",
+		"/u/florix/flori/flsite/pag/pag1_1_1.html",
+		"/u/florix/flori/pagwrk/pag/pag1_1_1.html",
+		"/u/florix/flori/pagwrk/index.html",
+		"/u/florix/flori/pagwrk/pag.html",
+		"/u/florix/flori/pagwrk/js/florimont.js",
+		"/u/florix/flori/pagwrk/pag/pag1_1_1_.html",
+		"/u/florix/flori/page_wrk/index.html"
+	],
+	"find":
+	{
+		"height": 66.0
+	},
+	"find_in_files":
+	{
+		"height": 184.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"<null />",
+			"null"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 124.0
+	},
+	"output.autopep8":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 320.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.help":
+	{
+		"height": 292.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "xml2html.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"//",
+				"uadb/back/aa_select_pgsql.py"
+			],
+			[
+				"pa",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/u/florix/ST/flsite.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 896.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
