@@ -10,7 +10,7 @@
       "teixml2html.py",
       "-i xml/tou1/tou1_list.xml",
       "-o html/tou1/syn/tou1.html",
-      "-c cnf/list_dipl_syn.json",
+      "-c cfg/list_dipl_syn.json",
       "-wa a"
     ],
     [
@@ -24,7 +24,7 @@
       "teixml2html.py",
       "-i xml/tou1/tou1_list.xml",
       "-o html/tou1/syn/tou1.html",
-      "-c cnf/list_inter_syn.json",
+      "-c cfg/list_inter_syn.json",
       "-wa a"
     ],
     [

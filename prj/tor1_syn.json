@@ -15,7 +15,7 @@
         "teixml2html.py",
         "-i xml/tor1/$F.xml",
         "-o html/tor1/syn/$F.html",
-        "-c cnf/tor1_dipl_syn.json",
+        "-c cfg/tor1_dipl_syn.json",
         "-wa a"
       ],
       [
@@ -28,7 +28,7 @@
         "teixml2html.py",
         "-i xml/tor1/$F.xml",
         "-o html/tor1/syn/$F.html",
-        "-c cnf/tor1_inter_syn.json",
+        "-c cfg/tor1_inter_syn.json",
         "-wa a"
       ],
       [

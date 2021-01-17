@@ -682,11 +682,15 @@
 	"expanded_folders":
 	[
 		"/u/pyx/pyu/tei/teixml2html_flori",
-		"/u/pyx/pyu/tei/teixml2html_flori/xml",
-		"/u/pyx/pyu/tei/teixml2html_flori/xml/xml0"
+		"/u/pyx/pyu/tei/teixml2html_flori/html",
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1",
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/syn",
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt"
 	],
 	"file_history":
 	[
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/ven1_list.html",
+		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/syn/ven1.html",
 		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/ven1.html",
 		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/ep1.html",
 		"/u/pyx/pyu/tei/teixml2html_flori/html/ven1/txt/prol1.html",
@@ -812,9 +816,7 @@
 		"/u/florix/flori/pagwrk/pag/pag1_1_1.html",
 		"/u/florix/flori/pagwrk/index.html",
 		"/u/florix/flori/pagwrk/pag.html",
-		"/u/florix/flori/pagwrk/js/florimont.js",
-		"/u/florix/flori/pagwrk/pag/pag1_1_1_.html",
-		"/u/florix/flori/page_wrk/index.html"
+		"/u/florix/flori/pagwrk/js/florimont.js"
 	],
 	"find":
 	{

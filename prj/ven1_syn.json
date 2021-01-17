@@ -15,7 +15,7 @@
         "teixml2html.py",
         "-i xml/ven1/$F.xml",
         "-o html/ven1/syn/$F.html",
-        "-c cnf/ven1_dipl_syn.json",
+        "-c cfg/ven1_dipl_syn.json",
         "-wa a"
       ],
       [
@@ -28,7 +28,7 @@
         "teixml2html.py",
         "-i xml/ven1/$F.xml",
         "-o html/ven1/syn/$F.html",
-        "-c cnf/ven1_inter_syn.json",
+        "-c cfg/ven1_inter_syn.json",
         "-wa a"
       ],
       [

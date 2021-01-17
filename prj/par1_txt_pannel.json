@@ -20,7 +20,7 @@
       "teixml2html.py",
       "-i xml/par1/par1_list.xml",
       "-o html/par1/txt/par1.html",
-      "-c cnf/list_dipl_txt.json",
+      "-c cfg/list_dipl_txt.json",
       "-wa a"
     ],
     [
@@ -35,7 +35,7 @@
       "teixml2html.py",
       "-i xml/par1/par1_list.xml",
       "-o html/par1/txt/par1.html",
-      "-c cnf/list_inter_txt.json",
+      "-c cfg/list_inter_txt.json",
       "-wa a"
     ],
     [

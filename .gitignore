@@ -1,20 +1,6 @@
-html/
-htmlf/
-xml/
-log/
+log/*
 bin/
 back/
-
-css/abr/
-css/ico/
-css/imgs/
-
-js/jquery/
-
-*.html
-*.xml
-*.ico
-**/imgs
 
 *.sh
 .vscode/

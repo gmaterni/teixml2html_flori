@@ -33,7 +33,7 @@ par1_txt.json
         "teixml2html.py",
         "-i xml/par1/$F.xml",
         "-o html/par1/txt/$F.html",
-        "-c cnf/par1_dipl_txt.json",
+        "-c cfg/par1_dipl_txt.json",
         "-wa w"
       ],
       [
@@ -45,7 +45,7 @@ par1_txt.json
         "teixml2html.py",
         "-i xml/par1/$F.xml",
         "-o html/par1/txt/$F.html",
-        "-c cnf/par1_inter_txt.json",
+        "-c cfg/par1_inter_txt.json",
         "-wa a"
       ]
     ]
@@ -84,7 +84,7 @@ par1_txt_pannel.json_path
       "teixml2html.py",
       "-i xml/par1/par1_list.xml",
       "-o html/par1/txt/par1.html",
-      "-c cnf/list_dipl_txt.json",
+      "-c cfg/list_dipl_txt.json",
       "-wa a"
     ],
     [
@@ -99,7 +99,7 @@ par1_txt_pannel.json_path
       "teixml2html.py",
       "-i xml/par1/par1_list.xml",
       "-o html/par1/txt/par1.html",
-      "-c cnf/list_inter_txt.json",
+      "-c cfg/list_inter_txt.json",
       "-wa a"
     ],
     [
