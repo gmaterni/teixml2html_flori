@@ -1,4 +1,4 @@
-x|xml_tag|tag|keys|attrs|text|par1ams|par1ent
+x|xml_tag|tag|keys|attrs|text|params|parent
 
 x|x|_x_
 x|x+y|_xy_
@@ -75,15 +75,14 @@ d|persname|div||class:persname
 i|persname|div||class:persname_int
 
 d|placename|div||class:placename
-i|placename|div||class:placename
+i|placename|div||class:placename_int
 
 d|geogname|div||class:geogname
-i|geogname|div||class:geogname
+i|geogname|div||class:geogname_int
 
-d|geogfeat|XXX
-i|geogfeat|div||class:geogfeat
-
+x|geogfeat|XXX
 x|rolename|XXX
+x|addname|XXX
 
 d|expan|span||class:abbrev %corresp%
 d|ex|span||class:ex|<a class="ex_ref" href="#">\
@@ -92,7 +91,7 @@ d|ex|span||class:ex|<a class="ex_ref" href="#">\
 </span>%text%</a>||expan
 
 i|expan|span||class:abrev_int
-i|ex|span||class:ex
+i|ex|XXX
 
 x|subst|XXX
 
@@ -141,7 +140,7 @@ i|note|span>a||class:annotaz_int
 x|ptr|a|id,type|class:ptr note,href:#,target_note:%target%|%n%|
 
 d|teimed_note|div|id|class:teimed_note
-i|teimed_note|XXX|id|class:teimed_note
+i|teimed_note|XXX|
 
 x|space|space+type|
 x|space+reserved-line|span||class:reserved-line|[ligne blanche réservée]
@@ -153,12 +152,11 @@ x|unclear|span||class:unclear
 x|gap|span||class:gap
 
 x|supplied|supplied+reason+cert
-d|supplied+evident-omission|span||class:supplied_eo
-d|supplied+damage+yes|span||class:supplied_dy
-d|supplied+damage+no|span||class:supplied_dn
-i|supplied+evident-omission|span||class:supplied_eo_int
-i|supplied+damage+yes|span||class:supplied_dy_int
-i!supplied+damage+no|span||class:supplied_dn_int
+
+d|supplied+evident-omission|XXX
+i|supplied+evident-omission|span||class:supplied_eo
+x|supplied+damage+yes|span||class:supplied_dy
+x|supplied+damage+no|span||class:supplied_dn
 
 d|directspeech|||class:directspeech|%txt_start%%txt_end%|txt_start:«,txt_end:»
 i|directspeech|||class:directspeech%css_end%_int|%txt_start%%txt_end%|txt_start:«,txt_end:»,css_end:_last
@@ -166,7 +164,8 @@ i|directspeech|||class:directspeech%css_end%_int|%txt_start%%txt_end%|txt_start:
 d|monologue|||class:monologue|%txt_start%%txt_end%|txt_start:_QA_,txt_end:_QC_
 i|monologue|||class:tei_monologue_int|%txt_start%%txt_end%|txt_start:_QA_,txt_end:_QC_
 
-d|agglutination|||class:aggl
+x|xml_tag|tag|keys|attrs|text|params|parent
+d|agglutination|||class:aggl%css_end%||css_end:_last
 i|agglutination|||class:aggl_int
 d|agglutination_uncert|||class:aggl-uncert
 i|agglutination_uncert|||class:aggl-uncert_int
@@ -174,7 +173,3 @@ i|agglutination_uncert|||class:aggl-uncert_int
 x|damage|||class:damage%css_end%||css_end:_last
 
 
-
-
-x|supplied+|_x_supplied_error
-x|addname|addname_eeror

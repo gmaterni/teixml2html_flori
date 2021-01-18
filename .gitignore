@@ -1,6 +1,6 @@
-log/*
 bin/
 back/
+log/*
 
 *.sh
 .vscode/
